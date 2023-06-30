@@ -142,7 +142,7 @@ int main() {
 
 ### 添加注释
 在代码的关键位置添加注释是个好习惯，这样方便别人理解和维护。c++有两种添加注释的方法：
-- 使用"/****和"*/"，例如：
+- 方法1：
 ```
 #include <iostream>
 using namespace std;
@@ -154,7 +154,7 @@ int main() {
 }
 ```
 
-- 使用"//"
+- 方法2:
 ```
 #include <iostream>
 using namespace std;
